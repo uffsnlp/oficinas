@@ -1,7 +1,22 @@
-## Oficina Python e Pandas ─ 03/03/2021
+<p align="center">
+  <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="450">
+</p>
 
-### Lista de Conteúdos
+Lista de Conteúdos
+==================
 
-[Preparando o ambiente]()
+<!--ts-->
+* [Preparando o ambiente](preparando-o-ambiente)
+* [O que é Pandas]()
 
-[O que é o Pandas]()
+<!--te-->
+
+Preparando o ambiente
+=====================
+
+Linux
+-----
+
+
+Windows
+-------
