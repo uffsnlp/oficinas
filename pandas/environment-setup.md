@@ -2,23 +2,16 @@
   <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="450">
 </p>
 
-Lista de Conteúdos
-==================
-
-<!--ts-->
-* [Preparando o ambiente](#preparando-o-ambiente)
-* [O que é Pandas]()
-
-<!--te-->
-
 Preparando o ambiente
 =====================
+
+Para que você possa participar da oficina sobre python/pandas é preciso que algumas ferramentas estejam disponíveis em sua máquina, para isso siga as instruções a seguir:
 
 ## Python e PIP
 
 ### Linux
 
-Para instalar o Python 3 e o [PIP](https://pt.wikipedia.org/wiki/Pip_(gerenciador_de_pacotes)) (gerenciador de pacotes do python) no Linux siga essas [instruções](https://python.org.br/instalacao-linux/);
+Instale o Python 3 e o [PIP](https://pt.wikipedia.org/wiki/Pip_(gerenciador_de_pacotes)) (gerenciador de pacotes do python) seguindo essas [instruções](https://python.org.br/instalacao-linux/);
 
 ### Windows
 
@@ -41,5 +34,12 @@ $ pip install notebook
 3) Por fim execute o comando para iniciar o Jupyter Notebook:
 
 ```bash
+cd dojos/python-pandas
 jupyter notebook
 ```
+
+Se tudo ocorrer de acordo, uma aba do seu navegador padrão abrirá automaticamente e mostrará os seguintes arquivos:
+
+![](images/jupyter-view.png)
+
+4) Note que Jupyter roda em um servidor local, ele ficará logando várias coisas em seu console, para finalizá-lo basta dar `Crtl+C`.
