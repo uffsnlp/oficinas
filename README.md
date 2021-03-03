@@ -6,7 +6,7 @@ Coding DOJOs, explorando aspectos práticos de conceitos largamente empregados e
 
 | Título                     | Descrição                                                                                         |
 |----------------------------|---------------------------------------------------------------------------------------------------|
-| [Python e Pandas](https://github.com/arufonsekun/dojos/tree/dojo-pandas/pandas)| Introdução à linguagem `python` e à biblioteca `Pandas`                                           |
+| [Python e Pandas](https://github.com/uffsnlp/dojos/tree/master/pandas)| Introdução à linguagem `python` e à biblioteca `Pandas`                                           |
 | Pré-processamento de Texto | Construção de um pipeline básico para pré-processamento de texto                                  |
 | Machine Learning           | Contrução de um modelo para uma competição do _kaggle_                                            |
 | Classificação de Texto     | Técnicas de Machine Learning e pré-processamento de texto aplicadas à classificação de documentos |
