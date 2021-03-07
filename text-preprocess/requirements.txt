@@ -1,4 +1,7 @@
-nltk
-spacy
 bs4
+nltk
+num2words
+pandas
+spacy
 unidecode
+word2number
