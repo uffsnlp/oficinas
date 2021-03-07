@@ -1,0 +1,4 @@
+nltk
+spacy
+bs4
+unidecode
