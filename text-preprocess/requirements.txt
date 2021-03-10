@@ -4,4 +4,3 @@ num2words
 pandas
 spacy
 unidecode
-word2number
