@@ -1,0 +1,6 @@
+bs4
+nltk
+num2words
+pandas
+spacy
+unidecode
