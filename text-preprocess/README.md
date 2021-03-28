@@ -14,5 +14,5 @@ pip install -r requirements.txt
 
 ## Definições Importantes
 
-**Corpus:** Um grande conjunto de textos em geral não estruturados - conjunto de documentos.
-**Documento:** A menor unidade textual que trata de "um único" assunto específico.
+- **Corpus:** Um grande conjunto de textos em geral não estruturados - conjunto de documentos.
+- **Documento:** A menor unidade textual que trata de "um único" assunto específico.
